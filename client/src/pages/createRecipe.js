@@ -1,3 +1,3 @@
-export const create_recipe = () => {
+export const Create_recipe = () => {
     return <div>Create Recipes</div>;
 };
